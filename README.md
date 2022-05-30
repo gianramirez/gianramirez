@@ -7,9 +7,9 @@ I work Amazon as part of the PXT team. I'm also a WCCI student, and will graduat
 
 Top superpowers according to my manager and teammates in my 2021 review:
 
-Deliver Results
-Ownership
-Bias for Action
+1. Deliver Results
+2. Ownership
+3. Bias for Action
 
 <!--
 **gianramirez/gianramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
