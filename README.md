@@ -2,9 +2,9 @@
 
 Pronouns: He/Him
 
--Software Engineer @ JPMC
--Ex-Amazonian x PXT team. 
--WCCI Alumni
+- Software Engineer @ JPMC
+- Ex-Amazonian x PXT team. 
+- WCCI Alumni
 
 Top superpowers according to my manager and teammates in my 2021 review:
 
