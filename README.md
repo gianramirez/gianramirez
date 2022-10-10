@@ -2,8 +2,9 @@
 
 Pronouns: He/Him
 
-I work Amazon as part of the PXT team. I'm also a WCCI student, and will graduate in August 2022. 
-
+Software Engineer @ JPMC
+Ex-Amazonian x PXT team. 
+WCCI Alumni
 
 Top superpowers according to my manager and teammates in my 2021 review:
 
