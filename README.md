@@ -12,6 +12,12 @@ Top superpowers according to my manager and teammates in my 2021 review:
 2. Ownership
 3. Bias for Action
 
+Things I love:
+Java
+Gaming
+Tacos
+Movie Nights
+
 <!--
 **gianramirez/gianramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
